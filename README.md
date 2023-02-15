@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 
 <!--
 **ovetmak/ovetmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
